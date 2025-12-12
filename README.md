@@ -1,8 +1,4 @@
-Ini dia seluruh kerangka dokumentasi yang lengkap, disajikan dalam format **Markdown** yang siap Anda susun di repositori GitHub Anda.
 
-Saya akan membaginya ke dalam file-file terpisah di bawah folder `/docs` untuk organisasi yang lebih baik.
-
------
 
 ## 1\. File Utama (Root Repository)
 
